@@ -1,4 +1,5 @@
-# Ticketly — mock technical interview (fullstack React + Node)
+# This is a project that I used for Coders mentorship students that wanna to simulate tech interviews
+
 
 A small support-ticket app used as the base for a three-stage technical interview modeled on
 how [Howdy.com](https://www.howdy.com) vets engineers: a short take-home, a live coding round,
